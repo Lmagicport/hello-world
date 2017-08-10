@@ -1,2 +1,4 @@
 # hello-world
-it's just a practice
+#include<iostream>
+//it's just a practice
+cout<<"hello world"<<endl;
